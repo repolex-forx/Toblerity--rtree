@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Toblerity/rtree/commit/4b570582ff11cdf73514b1ae2a4129742ee6488b",
       "git:hexsha": "4b570582ff11cdf73514b1ae2a4129742ee6488b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:19:13.307869+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Toblerity/rtree/commit/754c5ec3c85ffd6e553ec4c944b68c30bede7263",
